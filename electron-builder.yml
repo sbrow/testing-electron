@@ -1,0 +1,6 @@
+appId: your.id
+publish:
+  - github
+files:
+  - build
+  - package.json

@@ -1,0 +1,29 @@
+{
+  "generator-npm-package": {
+    "useYarn": true,
+    "promptValues": {
+      "useYarn": true
+    },
+    "installed": [],
+    "devDependencies": [
+      "jest",
+      "react",
+      "react-dom",
+      "typescript",
+      "@types/node",
+      "tslint",
+      "webpack",
+      "coveralls",
+      "ts-loader"
+    ],
+    "dependencies": [
+      "webpack",
+      "webpack-cli"
+    ],
+    "tsconfig": {
+      "outDir": "dist",
+      "esModuleInterop": true,
+      "resolveJsonModule": true
+    }
+  }
+}

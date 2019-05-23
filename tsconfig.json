@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "jsx": "react",
+    "outDir": "dist",
+    "resolveJsonModule": true
+  },
+  "typeAcquisition": {
+    "enable": true
+  }
+}
